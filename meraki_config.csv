@@ -1,0 +1,3 @@
+Network Name,Devices,VLAN_subnet,Number_VLANS,Tag
+First Network,<Device serial>;<Device serial>;<Device serial>,192.168,0,tag1
+Second Network,<Device serial>;<Device serial>;<Device serial>,192.168,20,tag2
